@@ -1,6 +1,1 @@
-hampusnyberg.se. 3600 IN SOA atdns01.citynetwork.se. registry.citynetwork.se. 1454544000 1200 180 1209600 1209600
-hampusnyberg.se. 86400 IN NS atdns01.citynetwork.se.
-hampusnyberg.se. 86400 IN NS atdns02.citynetwork.se.
-hampusnyberg.se. 86400 IN NS atdns03.citynetwork.se.
-@ 3600 IN A 23.235.33.133
-www 3600 IN CNAME hampusnyberg.github.io.
+hampusnyberg.se
